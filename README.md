@@ -6,14 +6,12 @@ I am a final-year Computer Science student at Can Tho University with a strong i
 
 With a proactive attitude and willingness to learn, I am eager to collaborate with teams, communicate effectively, and approach problems from multiple perspectives to propose practical solutions. As I am nearing graduation, I am ready to dedicate my full focus and energy to contribute as a Business Analyst Intern at your company.
 
-[My CV](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/MyCV.pdf)  
-
 # Table of contents
   - [About](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md)  
 
   - Projects:
-    - [Library Borrowing Management System](https://github.com/lthnhuw/Library-Borrowing-Management-System)
-    - [USDA Plant Species Clustering & Prediction](https://github.com/lthnhuw/USDA-Plant-Species-Clustering-Prediction)
+    - [Library Borrowing Management System](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md/#Library-Borrowing-Management-System)
+    - [USDA Plant Species Clustering & Prediction](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md/#USDA-Plant-Species-Clustering-Prediction)
     - [Student Academic Records Management & Analysis with MySQL](https://github.com/lthnhuw/Projects/blob/main/student.sql)
     - [Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions](https://github.com/lthnhuw/Projects/blob/main/project.sql)
     - [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)
@@ -26,7 +24,7 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
   - [Contacts](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md/#contact )
 # Projects  
 ## <B> Library Borrowing Management System </B>
-<B> Code: </B> [plants_Clustering_version2.ipynb](https://github.com/lthnhuw/Library-Borrowing-Management-System)  
+<B> Code: </B> [Library Borrowing Management System](https://github.com/lthnhuw/Library-Borrowing-Management-System)  
 
 <B>Description: </B> Designed and analyzed a web-based library management system to automate book borrowing and returning. Delivered clear requirement documentation and improvement recommendations to enhance user experience and system efficiency.  
 
@@ -40,7 +38,7 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
 <B> Skills: </B> Requirements Analysis, UML (Use Case, Class Diagram), Process Modeling, Wireframing, UX Evaluation 
 
 ## <B> USDA Plant Species Clustering & Prediction</B>  
-<B> Code: </B>  [Loan Default Risk Analysis and Visualization](https://github.com/lthnhuw/USDA-Plant-Species-Clustering-Prediction)  
+<B> Code: </B>  [USDA Plant Species Clustering & Prediction](https://github.com/lthnhuw/USDA-Plant-Species-Clustering-Prediction)  
 
 <B> Description: </B> Analyzed USDA plant dataset to uncover species distribution patterns across U.S. regions. Generated visual insights and clustering analysis to support environmental planning and agricultural decision-making. 
 
