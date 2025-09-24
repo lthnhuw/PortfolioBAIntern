@@ -10,9 +10,9 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
   - [About](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md)  
 
   - Projects:
-    - [Library Borrowing Management System](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md/#Library-Borrowing-Management-System)
-    - [USDA Plant Species Clustering & Prediction](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md/#USDA-Plant-Species-Clustering-Prediction)
-    - [Loan Default Risk Analysis](https://github.com/lthnhuw/Projects/blob/main/student.sql)
+    - [Library Borrowing Management System](https://github.com/lthnhuw/Library-Borrowing-Management-System)
+    - [USDA Plant Species Clustering & Prediction](https://github.com/lthnhuw/USDA-Plant-Species-Clustering-Prediction)
+    - [Loan Default Risk Analysis](https://github.com/lthnhuw/Loan-Default-Risk-Analysis)
     - [Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions](https://github.com/lthnhuw/Projects/blob/main/project.sql)
     - [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)
     
@@ -50,7 +50,7 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
 
 <B> Skills: </B> Requirements Analysis, Data Exploration, Data Visualization, Insight Communication , Python (Pandas, Matplotlib, Seaborn)  
 ## <B> Loan Default Risk Analysis </B>  
-<B> Code: </B> [Loan Default Risk Analysis](https://github.com/lthnhuw/Projects/blob/main/student.sql) 
+<B> Code: </B> [Loan Default Risk Analysis](https://github.com/lthnhuw/Loan-Default-Risk-Analysis) 
 
 <B> Description: </B> Analyzed loan dataset (~9,500 records, 14 features) to explore borrower characteristics and identify key factors affecting loan repayment. Built dashboards and visual reports to support credit policy improvement and risk management.  
 
@@ -61,19 +61,18 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
 - Designed dashboards and pivot tables to communicate insights clearly to stakeholders.
 
 <B> Skills: </B> Requirements Analysis, Data Exploration, Data Visualization (Excel, Pivot), Insight Communication.
-## <B>Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions</B>  
+## <B>Human Resource Management System</B>  
 <B> Code: </B>  [MySQL](https://github.com/lthnhuw/Projects/blob/main/project.sql)
 
-<B> Description </B>:  Developed and implemented a set of stored procedures, user-defined functions, triggers, and transaction scripts in MySQL to demonstrate advanced database programming concepts for academic and portfolio purposes.  
+<B> Description </B>:  Analyzed and designed a Human Resource Management System for a software company. Captured requirements from different stakeholders (employee, project manager, HR staff, director) and modeled business processes using UML to support efficient workforce management.  
 
 <B> Key contributions: </B>  
-- Designed and implemented stored procedures to automate tasks such as GPA calculation, graduation classification, and student/course reporting.
-- Created user-defined functions for computing academic credits and graduation eligibility.
-- Developed database triggers for data integrity enforcement and automated field updates.
-- Implemented transaction scripts with commit/rollback logic to ensure data consistency in money transfer scenarios.
-- Simulated isolation levels and deadlock conditions to illustrate concurrency control concepts.
+- Created and documented use cases for the Project Manager role.
+- Designed the class diagram and developed the Logical Data Model (LDM) to represent system entities and relationships.
+- Wrote scenario and built sequence diagram for the "Performance Evaluation" function.
+- Summarized project outcomes and proposed improvement directions for system development.
 
-<B> Skills: </B> MySQL
+<B> Skills: </B> Requirements Analysis, UML Modeling (Use Case, Class, Sequence), Data Modeling (LDM), Business Process Documentation, Analytical Writing.
 ## <B> Machine Translation System Development </B>  
 <B> Code: </B> [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)  
 
