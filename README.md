@@ -13,7 +13,7 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
     - [Library Borrowing Management System](https://github.com/lthnhuw/Library-Borrowing-Management-System)
     - [USDA Plant Species Clustering & Prediction](https://github.com/lthnhuw/USDA-Plant-Species-Clustering-Prediction)
     - [Loan Default Risk Analysis](https://github.com/lthnhuw/Loan-Default-Risk-Analysis)
-    - [Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions](https://github.com/lthnhuw/Projects/blob/main/project.sql)
+    - [Human Resource Management System](https://github.com/lthnhuw/Human-Resource-Management-System)
     - [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)
     
 
@@ -62,14 +62,14 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
 
 <B> Skills: </B> Requirements Analysis, Data Exploration, Data Visualization (Excel, Pivot), Insight Communication.
 ## <B>Human Resource Management System</B>  
-<B> Code: </B>  [MySQL](https://github.com/lthnhuw/Projects/blob/main/project.sql)
+<B> Code: </B>  [Human Resource Management System](https://github.com/lthnhuw/Human-Resource-Management-System)
 
-<B> Description </B>:  Analyzed and designed a Human Resource Management System for a software company. Captured requirements from different stakeholders (employee, project manager, HR staff, director) and modeled business processes using UML to support efficient workforce management.  
+<B> Description </B>:  Designed and modeled a Human Resource Management System to support project monitoring and employee performance evaluation, ensuring efficient HR processes.
 
 <B> Key contributions: </B>  
 - Created and documented use cases for the Project Manager role.
-- Designed the class diagram and developed the Logical Data Model (LDM) to represent system entities and relationships.
-- Wrote scenario and built sequence diagram for the "Performance Evaluation" function.
+- Designed the Class Diagram and developed the Logical Data Model (LDM) to represent system entities and relationships.
+- Wrote the scenario and built a Sequence Diagram for the "Performance Evaluation" function.
 - Summarized project outcomes and proposed improvement directions for system development.
 
 <B> Skills: </B> Requirements Analysis, UML Modeling (Use Case, Class, Sequence), Data Modeling (LDM), Business Process Documentation, Analytical Writing.
