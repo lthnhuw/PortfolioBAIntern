@@ -13,7 +13,7 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
 
   - Projects:
     - [Library Borrowing Management System](https://github.com/lthnhuw/Library-Borrowing-Management-System)
-    - [USDA Plant Species Clustering & Prediction](https://github.com/lthnhuw/Projects/blob/main/Loan.xlsx)
+    - [USDA Plant Species Clustering & Prediction](https://github.com/lthnhuw/USDA-Plant-Species-Clustering-Prediction)
     - [Student Academic Records Management & Analysis with MySQL](https://github.com/lthnhuw/Projects/blob/main/student.sql)
     - [Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions](https://github.com/lthnhuw/Projects/blob/main/project.sql)
     - [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)
