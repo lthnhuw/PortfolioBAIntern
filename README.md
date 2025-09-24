@@ -49,22 +49,18 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
 - Communicated results with visual dashboards, highlighting opportunities for biodiversity management.
 
 <B> Skills: </B> Requirements Analysis, Data Exploration, Data Visualization, Insight Communication , Python (Pandas, Matplotlib, Seaborn)  
-## <B> Student Academic Records Management & Analysis with MySQL </B>  
-<B> Code: </B> [Student Academic Records Management & Analysis with MySQL](https://github.com/lthnhuw/Projects/blob/main/student.sql) 
+## <B> Loan Default Risk Analysis </B>  
+<B> Code: </B> [Loan Default Risk Analysis](https://github.com/lthnhuw/Projects/blob/main/student.sql) 
 
-<B> Description: </B> Designed and implemented a relational database to store and manage student academic records, course details, and exam results for multiple faculties. Developed SQL queries to extract, filter, and aggregate data for academic performance analysis, faculty statistics, and course participation insights.  
+<B> Description: </B> Analyzed loan dataset (~9,500 records, 14 features) to explore borrower characteristics and identify key factors affecting loan repayment. Built dashboards and visual reports to support credit policy improvement and risk management.  
 
 <B> Key contributions: </B>  
-- Built a complete schema with 4 interrelated tables: khoa, sinhVien, hocPhan, ketQua.
-- Implemented 20+ SQL queries to answer specific analytical questions:
-  - Student filtering by age, faculty, and name patterns.
-  - Identifying top-performing students and those at academic risk.
-  - Listing most popular courses and courses without registrations.
-  - Calculating pass/fail rates and faculty-level gender distribution.
-- Applied constraints (CHECK, FOREIGN KEY) to ensure data integrity.
-- Generated datasets for academic decision-making and operational reports.
+- Cleaned, encoded, and prepared dataset to improve data accuracy and usability for analysis.
+- Performed exploratory and visual analysis to detect borrower behavior patterns and repayment risks.
+- Compared borrower groups by credit inquiries, revolving balance, and income levels to highlight risk differences.
+- Designed dashboards and pivot tables to communicate insights clearly to stakeholders.
 
-<B> Skills: </B>  MySQL (DDL, DML, JOIN, aggregation, subqueries, constraints); relational database design; data filtering, sorting, and aggregation; query optimization basics.
+<B> Skills: </B> Requirements Analysis, Data Exploration, Data Visualization (Excel, Pivot), Insight Communication.
 ## <B>Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions</B>  
 <B> Code: </B>  [MySQL](https://github.com/lthnhuw/Projects/blob/main/project.sql)
 
