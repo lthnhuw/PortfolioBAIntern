@@ -14,7 +14,7 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
     - [USDA Plant Species Clustering & Prediction](https://github.com/lthnhuw/USDA-Plant-Species-Clustering-Prediction)
     - [Loan Default Risk Analysis](https://github.com/lthnhuw/Loan-Default-Risk-Analysis)
     - [Human Resource Management System](https://github.com/lthnhuw/Human-Resource-Management-System)
-    - [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)
+    - [Machine Translation System Analysis](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)
     
 
   - [Skills](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md/#skills )  
@@ -74,19 +74,17 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
 
 <B> Skills: </B> Requirements Analysis, UML Modeling (Use Case, Class, Sequence), Data Modeling (LDM), Business Process Documentation, Analytical Writing.
 ## <B> Machine Translation System Development </B>  
-<B> Code: </B> [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)  
+<B> Code: </B> [Machine Translation System Analysis](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)  
 
-<B>Description: </B> Build a machine translation system, research methods to improve translation quality, and compare the machine translation models that have been developed.
+<B>Description: </B> Analyzed and evaluated machine translation systems to identify methods for improving translation quality and supporting decision-making in model selection.
 
 <B> Key contributions: </B>  
-- Built and fine-tuned NMT model (Helsinki-NLP/opus-mt-en-vi) with spell correction (ViBERT-base5) and back-translation to improve data quality.
-- Preprocessed and cleaned input datasets.
-- Evaluated performance using BLEU score, outperforming baseline Transformer and multi-source models.
+- Gathered and preprocessed bilingual datasets (English–Vietnamese) to ensure data accuracy and usability.
+- Researched translation quality improvement methods such as spell correction and back-translation.
+- Compared multiple machine translation models and documented insights for stakeholders.
+- Evaluated translation performance using BLEU score and summarized findings in reports.
 
-<B> Skills: </B>  
-- Data Analysis: Python, Pandas, NumPy, Matplotlib, Seaborn
-- Machine Learning: Scikit-learn, TensorFlow, Keras
-- Natural Language Processing (NLP): NLTK, TextBlob, Hugging Face Transformers
+<B> Skills: </B>  Requirements Analysis, Data Preparation, Evaluation Metrics (BLEU), Research & Documentation, Insight Communication, Stakeholder Reporting.
 # Skills
 <B>Technical skills:</B> Requirements Analysis, Excel, SQL, Python (Pandas), MongoDB.
 
