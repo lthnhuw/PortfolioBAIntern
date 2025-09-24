@@ -9,7 +9,7 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
 [My CV](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/MyCV.pdf)  
 
 # Table of contents
-  - [About](https://github.com/lthnhuw/Portfolio/blob/main/README.md)  
+  - [About](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md)  
 
   - Projects:
     - [Library Borrowing Management System](https://github.com/lthnhuw/Library-Borrowing-Management-System)
@@ -19,14 +19,14 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
     - [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)
     
 
-  - [Skills](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#skills )  
+  - [Skills](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md/#skills )  
 
-  - [Education](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#education )  
+  - [Education](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md/#education )  
 
-  - [Contacts](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#contact )
+  - [Contacts](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md/#contact )
 # Projects  
 ## <B> Library Borrowing Management System </B>
-<B> Code: </B> [plants_Clustering_version2.ipynb](https://github.com/lthnhuw/Projects/blob/main/plants_Clustering_version2.ipynb)  
+<B> Code: </B> [plants_Clustering_version2.ipynb](https://github.com/lthnhuw/Library-Borrowing-Management-System)  
 
 <B>Description: </B> Designed and analyzed a web-based library management system to automate book borrowing and returning. Delivered clear requirement documentation and improvement recommendations to enhance user experience and system efficiency.  
 
@@ -40,7 +40,7 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
 <B> Skills: </B> Requirements Analysis, UML (Use Case, Class Diagram), Process Modeling, Wireframing, UX Evaluation 
 
 ## <B> USDA Plant Species Clustering & Prediction</B>  
-<B> Code: </B>  [Loan Default Risk Analysis and Visualization](https://github.com/lthnhuw/Projects/blob/main/Loan.xlsx)  
+<B> Code: </B>  [Loan Default Risk Analysis and Visualization](https://github.com/lthnhuw/USDA-Plant-Species-Clustering-Prediction)  
 
 <B> Description: </B> Analyzed USDA plant dataset to uncover species distribution patterns across U.S. regions. Generated visual insights and clustering analysis to support environmental planning and agricultural decision-making. 
 
