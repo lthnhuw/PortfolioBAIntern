@@ -14,7 +14,7 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
     - [USDA Plant Species Clustering & Prediction](https://github.com/lthnhuw/USDA-Plant-Species-Clustering-Prediction)
     - [Loan Default Risk Analysis](https://github.com/lthnhuw/Loan-Default-Risk-Analysis)
     - [Human Resource Management System](https://github.com/lthnhuw/Human-Resource-Management-System)
-    - [Machine Translation System Analysis](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)
+    - [Machine Translation System Analysis](https://github.com/lthnhuw/Machine-Translation-System-Analysis)
     
 
   - [Skills](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md/#skills )  
@@ -74,7 +74,7 @@ With a proactive attitude and willingness to learn, I am eager to collaborate wi
 
 <B> Skills: </B> Requirements Analysis, UML Modeling (Use Case, Class, Sequence), Data Modeling (LDM), Business Process Documentation, Analytical Writing.
 ## <B> Machine Translation System Development </B>  
-<B> Code: </B> [Machine Translation System Analysis](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)  
+<B> Code: </B> [Machine Translation System Analysis](https://github.com/lthnhuw/Machine-Translation-System-Analysis)  
 
 <B>Description: </B> Analyzed and evaluated machine translation systems to identify methods for improving translation quality and supporting decision-making in model selection.
 
