@@ -4,7 +4,9 @@ Hi, I’m Huynh Nhu.
 
 I am a final-year Computer Science student at Can Tho University with a strong interest in business analysis and data-driven decision-making. I aspire to apply my analytical mindset and technical foundation in a professional environment, where I can support requirement gathering, process analysis, and data visualization to generate meaningful insights for stakeholders.
 
-With a proactive attitude and willingness to learn, I am eager to collaborate with teams, communicate effectively, and approach problems from multiple perspectives to propose practical solutions. As I am nearing graduation, I am ready to dedicate my full focus and energy to contribute as a Business Analyst Intern at your company.
+With a proactive attitude and willingness to learn, I am eager to collaborate with teams, communicate effectively, and approach problems from multiple perspectives to propose practical solutions. As I am nearing graduation, I am ready to dedicate my full focus and energy to contribute as a Business Analyst Intern at your company.  
+
+In the future, I hope to develop my expertise in business analysis and data analytics, and become a professional Business Analyst who can bridge business needs with technology solutions to support strategic decision-making.
 
 # Table of contents
   - [About](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md)  
